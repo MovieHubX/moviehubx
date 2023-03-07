@@ -1,5 +1,5 @@
-import { Helmet } from "react-helmet";
-import { FaCoffee } from "react-icons/fa";
+import { Helmet } from 'react-helmet';
+import { FaCoffee } from 'react-icons/fa';
 
 const Footer = () => {
   return (
